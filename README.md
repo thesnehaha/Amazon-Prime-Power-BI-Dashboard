@@ -32,7 +32,7 @@ This Power BI project analyzes Amazon Prime's catalog of movies and TV shows usi
 ## How to Run
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows?resource=download)
-2. Open the Power BI file (`amazon_prime_dashboard.pbix`)
+2. Open the Power BI file
 3. Refresh the data source and explore the dashboard interactively
 
 
